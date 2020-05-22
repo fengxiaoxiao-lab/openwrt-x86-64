@@ -78,7 +78,9 @@ jobs:
       working-directory: ./openwrt
       run: |
         git clone https://github.com/rufengsuixing/luci-app-adguardhome.git package/luci-app-adguardhome
-        git clone https://github.com/fw876/helloworld package/helloworld
+        git clone https://github.com/fw876/helloworld.git package/helloworld
+        git clone https://github.com/pymumu/smartdns.git package/smartdns
+        git clone https://github.com/pymumu/luci-app-smartdns.git package/luci-app-smartdns
 
     - name: Load custom configuration
       run: |
