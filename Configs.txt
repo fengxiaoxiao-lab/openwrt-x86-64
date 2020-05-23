@@ -7,8 +7,6 @@ Administrator
 	netdata
 Network
 	smartdns
-Utilities
-	docker-ce
 LUCI
 	Themes
 		opentomcat
@@ -16,7 +14,6 @@ LUCI
 		adguardhome
 		aria2
 		diskman
-		dockerman
 		frpc
 		kodexplorer
 		netdata
