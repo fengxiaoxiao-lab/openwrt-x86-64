@@ -10,6 +10,3 @@
 
 # Modify default IP
 #sed -i 's/192.168.1.1/192.168.50.5/g' package/base-files/files/bin/config_generate
-
-# Modify luci-app-smartdns makefile
-sed -i 's#luci.mk#feeds/luci/luci.mk#' package/luci-app-smartdns/Makefile
