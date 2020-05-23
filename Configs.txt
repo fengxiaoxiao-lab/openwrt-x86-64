@@ -1,0 +1,26 @@
+Target image
+	uefi
+	64
+	512
+Administrator
+	htop
+	netdata
+Network
+	smartdns
+Utilities
+	docker-ce
+LUCI
+	Themes
+		opentomcat
+	Applications
+		acme
+		adguardhome
+		aria2
+		diskman
+		dockerman
+		frpc
+		kodexplorer
+		netdata
+		nfs
+		smartdns
+		wrtbwmon
