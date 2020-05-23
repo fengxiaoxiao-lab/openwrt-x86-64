@@ -23,11 +23,3 @@ LUCI
 		nfs
 		smartdns
 		wrtbwmon
-		
-去掉功能：
-	PC HiFI
-	Air Play
-	QOS
-	
-问题：
-	smartdns菜单找不到？
