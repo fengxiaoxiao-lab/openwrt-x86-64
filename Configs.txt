@@ -12,10 +12,7 @@ LUCI
 		opentomcat
 	Applications
 		adguardhome
-		aria2
 		diskman
-		frpc
-		kodexplorer
 		netdata
 		nfs
 		smartdns
