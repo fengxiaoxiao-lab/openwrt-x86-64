@@ -12,8 +12,15 @@ LUCI
 		opentomcat
 	Applications
 		adguardhome
+		baidupcs-web
 		diskman
 		netdata
 		nfs
 		smartdns
 		wrtbwmon
+remove plugins:
+        Applications
+	        KMS
+		IPSec
+		OpenVpn
+		VSFTP
