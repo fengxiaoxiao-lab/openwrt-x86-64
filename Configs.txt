@@ -13,15 +13,10 @@ LUCI
 	Applications
 		adguardhome
 		baidupcs-web
+		luci-app-jd-dailybonus
 		diskman
 		netdata
 		nfs
+		qBittorrent
 		smartdns
 		wrtbwmon
-		luci-app-jd-dailybonus
-remove plugins:
-        Applications
-	        KMS
-		IPSec
-		OpenVpn
-		VSFTP
