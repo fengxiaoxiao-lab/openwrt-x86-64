@@ -1,7 +1,7 @@
 Target image
 	uefi
 	64
-	512
+	2048
 Administrator
 	htop
 	netdata
