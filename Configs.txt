@@ -18,6 +18,7 @@ LUCI
 		nfs
 		smartdns
 		wrtbwmon
+		luci-app-jd-dailybonus
 remove plugins:
         Applications
 	        KMS
